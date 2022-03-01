@@ -1,13 +1,11 @@
-Input & Output project
-=====================
 
 ## Ties Hogenboom SD2A Mediacollege
 
 ### Reference Links
 
-###  [Intro](#-intro)
-#### [Project & Wat ik maak](#-project-&-wat-ik-maak)
-#### [Wat ik nodig heb](#-wat-ik-nodig-heb)
+###  [Intro](#intro)
+#### [Project & Wat ik maak](#project--wat-ik-maak)
+#### [Wat ik nodig heb](#wat-ik-nodig-heb)
 #### [?](#?)
 
 ###  [Inhoud](#Inhoud)
@@ -21,14 +19,14 @@ Input & Output project
 
 
 # Intro
-Mijn naam is Ties Hogenboom, Ik zit op het Mediacollege in Amsterdam en studeer Software Development <br />
+Mijn naam is Ties Hogenboom, Ik zit op het Mediacollege in Amsterdam en studeer Software Development. Ik zit in mijn 2e jaar. <br />
 
 Op deze github pagina staan de bestanden van mijn project en in dit readme.md bestand staat de documentatie en werk process.
 ## Project & Wat ik maak
 
 Voor de 3e periode in mijn 2e leerjaar maak ik een project voor de Input / Output module.<br /> De bedoeling voor dit project is om research te doen naar een unieke Input,<br /> en dat te combineren met een Output.<br />
 
-Er zijn veel verschillende inputs waarmee je kan werken, en je mag alles gebruiken. Voorbeelden van een unieke input zijn:<br />
+Er zijn veel verschillende inputs waarmee je kan werken, en je mag alles gebruiken.<br /> Voorbeelden van een unieke input zijn:
 Tracking technologie, Licht sensoren, Geluid sensoren, Chips etc. <br />
 
 De output kan ook van alles zijn: Game, Website, Licht, VR etc. <br />
