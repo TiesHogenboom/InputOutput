@@ -50,5 +50,8 @@ https://stripe.com/ <br />
 https://nfcw.nl/ <br />
 ### Research
 uh vind iets over RFID vs NFC research
+https://www.paypal.com/us/digital-wallet/manage-money
+https://due.com/payments/
+https://www.rapyd.net/
 
 
