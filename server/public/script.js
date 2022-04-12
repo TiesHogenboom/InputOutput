@@ -7,8 +7,7 @@ button.addEventListener("click", () => {
         },
         body: JSON.stringify({
             items: [
-                { id: 1, quantity: 3},
-                { id: 2, quantity: 1},
+                { id: 1, quantity: 1},
             ],
         }),
     })
@@ -17,8 +16,7 @@ button.addEventListener("click", () => {
         return res.json().then(json => Promise.reject(json))
     })
       .then(({ url })=> {
-          console.log(url)
-        //window.location = url
+        window.location = url
     })
       .catch(e => {
         console.error(e.error)

@@ -8,8 +8,7 @@ app.use(express.static('public'))
 const stripe = require('stripe')(process.env.STRIPE_PRIVATE_KEY)
 
 const storeItems = new Map([
-    [1, { priceInCents: 10000, name: 'Test'}],
-    [2, {priceInCents: 20000, name: 'Test 2'}],
+    [1, { priceInCents: 1000, name: 'Doneer Aan Moodus'}],
 ])
 
 app.post('/create-checkout-session', async (req, res) => {

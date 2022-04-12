@@ -1,0 +1,19 @@
+{
+  "name": "inputoutput",
+  "version": "1.0.0",
+  "description": "Mijn naam is Ties Hogenboom, Ik zit op het Mediacollege in Amsterdam en studeer Software Development. Ik zit in mijn 2e jaar. <br />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiesHogenboom/InputOutput.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiesHogenboom/InputOutput/issues"
+  },
+  "homepage": "https://github.com/TiesHogenboom/InputOutput#readme"
+}
