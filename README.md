@@ -64,6 +64,16 @@ De NFC tags werken met de reader die ik besteld heb en hebben veel opslag vergel
 
 Voor het maken van de webpage gebruik ik HTML, CSS en Javascript omdat ik daarmee het liefsts werk. Ik kan ook als aternatief op wordpress de website maken maar ik heb niet genoeg ervaring ermee. Voor de betalingen gebruik ik Stripe, een service die ik makkelijk in mijn website kan zetten voor het handelen van de betalingen. Stripe maakt gebruik van node.js.
 
+Voor het programeren van de nfc tags gebruik ik nfctools.  De andere writer die ik heb gevonden deed het niet met opstarten.
+
+| NFC write program| Works with reader| starts up |
+| --------- |:-------------:|:-------------:|
+| nfctools (WakeDev)    | x             | x
+| nfctools (FLOSS)     | -             | x
+
+
+
+
 Het lasigste onderdeel van dit project is dat ik niet goed kan inschatten hoeveel tijd het mij gaat kosten omdat ik nog geen ervaring heb met het programeren van nfc tags.
 
 De kennis die ik nodig heb voor dit project is coderen met HTML en CSS, hoe ik een payment handeling service toe voeg aan een website en hoe ik een nfc tag programeer.
@@ -78,7 +88,7 @@ Ik heb voor dit project ~ 6- 7 weken nodig. In die tijd wil ik veel research doe
 ---
 
 ( How the nfc tag wil be programmed) </br>
-![alt text](https://i.imgur.com/PGypiay.png)
+![alt text](https://i.imgur.com/UtSsEoe.png)
 ---
 
 ## Periode 2
@@ -89,10 +99,11 @@ Ik heb voor dit project ~ 6- 7 weken nodig. In die tijd wil ik veel research doe
 https://moodus.com/ <br />
 https://stripe.com/ <br />
 https://nfcw.nl/ <br />
+https://www.wakdev.com/en/apps/nfc-tools.html (WakeDev)<br />
+https://nfc-tools.github.io/ (FLOSS) <br />
 ### Research
 uh vind iets over RFID vs NFC research
 https://www.paypal.com/us/digital-wallet/manage-money
 https://due.com/payments/
 https://www.rapyd.net/
-
 
