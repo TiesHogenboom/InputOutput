@@ -72,6 +72,15 @@ Ik heb voor dit project ~ 6- 7 weken nodig. In die tijd wil ik veel research doe
 
 # Inhoud (Log boek)
 ## Periode 1
+---
+( How the nfc tag wil work )
+![alt text](https://i.imgur.com/mLyhltC.png)
+---
+
+( How the nfc tag wil be programmed) </br>
+![alt text](https://i.imgur.com/PGypiay.png)
+---
+
 ## Periode 2
 ## Periode 3
 ## Periode 4
@@ -85,4 +94,5 @@ uh vind iets over RFID vs NFC research
 https://www.paypal.com/us/digital-wallet/manage-money
 https://due.com/payments/
 https://www.rapyd.net/
+
 
