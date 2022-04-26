@@ -1,4 +1,5 @@
 
+
 ## Ties Hogenboom SD2A Mediacollege
 
 
@@ -127,11 +128,21 @@ Op het begin van de periode heb ik mijn idee afgemaakt en begon ik met bouwen. I
 
 Ik had net voor de deadline mijn opdracht af, en had op het einde van de periode mijn eind presentatie. Daarvoor moest ik een presentatie gemaakt en de betaalautomaat meegenomen naar school om te laten zien tijdens mijn presentatie
 
+
+Video extra project: 
+https://imgur.com/a/5zoV7Ql
+
 ## Herkansing
 
 Er miste een paar dingen in mijn project waaronder mijn logboek, en usertest. Dus moest ik opnieuw presenteren op een latere datum. Ik begon met het maken van mijn logboek en kreeg die snel af. Ook heb ik usertest gedaan op het bedrijf. 
 
-Een paar dagen later heb ik iets aan mijn project veranderd, nadat ik heb gesproken met de baas van het bedrijf waar ik het project voor maakte. De nfc chip zat eerst op de betaalautomaat zelf, maar dat vonden wij beiden niet de beste plek ervoor. Dus hebben we de nfc chip verplaatst naar de het bord wat om de betaal automaat zit.
+Een paar dagen later heb ik iets aan mijn project veranderd, nadat ik heb gesproken met de baas van het bedrijf waar ik het project voor maakte. De nfc chip zat eerst op de betaalautomaat zelf, maar dat vonden wij beiden niet de beste plek ervoor. Dus hebben we de nfc chip verplaatst naar de een bord wat ik zelf ge designed heb, wat om de betaal automaat zit.
+
+ # Voor de veranderingen 
+![alt text](https://i.imgur.com/Ex0BptT.jpg)
+ # Na de veranderingen 
+![alt text](https://i.imgur.com/TNu0wyi.jpg)
+
 
 Op de dag voor de presentatie heb ik mijn powerpoint nagekeken en afgemaakt.
 
@@ -142,7 +153,4 @@ https://nfcw.nl/ <br />
 https://www.wakdev.com/en/apps/nfc-tools.html (WakeDev)<br />
 https://nfc-tools.github.io/ (FLOSS) <br />
 ### Research
-uh vind iets over RFID vs NFC research
 https://www.paypal.com/us/digital-wallet/manage-money
-https://due.com/payments/
-https://www.rapyd.net/
