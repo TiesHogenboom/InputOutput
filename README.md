@@ -1,3 +1,4 @@
+
 ## Ties Hogenboom SD2A Mediacollege
 
 
@@ -6,6 +7,10 @@ Mijn naam is Ties Hogenboom, Ik zit op het Mediacollege in Amsterdam en studeer 
 
 Op deze github pagina staan de bestanden van mijn project en in dit readme.md bestand staat de documentatie en werk process.
 
+<br>
+<br>
+<br>
+<br>
 
 ## Project & Wat ik maak
 
@@ -34,6 +39,10 @@ Er zijn naast stripe veel andere 'payment handeling' services, maar veel ervan z
 | Due       | x             | -
 
 
+<br>
+<br>
+<br>
+<br>
 
 ## Wat gebruik ik voor mijn project
 Ik gebruik NFC tags, en een NFC reader om informatie van de tags af te lezen. Ik heb vele opties voor nfc tags en readers bekeken en heb uiteindelijk gekozen voor de tags (NTAG216) en reader (ACR122U) van nfcw.nl
@@ -78,6 +87,11 @@ Het lasigste onderdeel van dit project is dat ik niet goed kan inschatten hoevee
 De kennis die ik nodig heb voor dit project is coderen met HTML en CSS, hoe ik een payment handeling service toe voeg aan een website en hoe ik een nfc tag programeer.
 
 Ik heb voor dit project ~ 6- 7 weken nodig. In die tijd wil ik veel research doen en uitproberen.
+
+<br>
+<br>
+<br>
+<br>
 
 # Inhoud (Log boek)
 ## Periode 1
