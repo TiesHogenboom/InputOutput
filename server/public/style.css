@@ -1,0 +1,75 @@
+/*
+  =====================================
+  Reset and layout stuff
+  (unrelated to demo)
+  =====================================
+*/
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2rem;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+  }
+  
+  
+  /*
+    =====================================
+    Container styles
+    =====================================
+  */
+  .container {
+    /* Layout stuff unrelated to demo */
+    padding: 2rem;
+    text-align: center;
+    width: 50%;
+  }
+  
+  .container--inverted {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  
+  /*
+    =====================================
+    Button styles
+    =====================================
+  */
+  .button {
+    padding: 0.5rem 2rem;
+    border: 0.2rem solid rgb(0, 0, 0);
+    border-radius: 0.5rem;
+    
+    /* match default body styles */
+    font-size: 1.2rem; 
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .button:active {
+    /* Invert bg & text colors when pressed */
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+  }
+  
+  
+  .button--inverted {
+    border-color: rgb(0, 0, 0);
+    
+    /* match inverted container */
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .button--inverted:active {
+    /* Invert bg & text colors when pressed */
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+  }
